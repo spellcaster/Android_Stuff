@@ -1,0 +1,3 @@
+cleancustimg - Перечень команд для редактирования файла cust.img (делалось для Huawei Honor, но актуально для любых моделей). Требуется root и busybox.
+
+adb.zip - Android Debug bridge в маленьком архиве, без необходимости качать SDK

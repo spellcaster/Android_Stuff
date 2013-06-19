@@ -1,3 +1,6 @@
 cleancustimg - Перечень команд для редактирования файла cust.img (делалось для Huawei Honor, но актуально для любых моделей). Требуется root и busybox.
 
 adb.zip - Android Debug bridge в маленьком архиве, без необходимости качать SDK, плюс несколько батников для упрощения основных операций
+
+NookPatchCompile.bat - скрипт для автоматизации пропатчивания файлов Nook Simple Touch.
+Информация: http://humanoid-at-android.blogspot.ru/2012/12/nook-improve-with-nooktouchpatches.html
